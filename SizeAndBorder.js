@@ -12,8 +12,6 @@
 // Code Sample🗒
 // import SizeAndBorderProperty from './SizeAndBorderProperty '
 // import sampleimg from "../images/sample.jpg"
-
-
 // <SizeAndBorderProperty src={sampleimg} w150 noBorder /> // 150px width image withought border
 
 import React from 'react';
