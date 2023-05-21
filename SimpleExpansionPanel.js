@@ -64,5 +64,3 @@ export default function SimpleExpansionPanel({title, children}) {
    </div>
   )
 }
-
-}
